@@ -1,0 +1,16 @@
+{
+    "name": "Distractify",
+    "short_name": "Distractify",
+    "description": "The only app that actively encourages you to procrastinate.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#9400D3",
+    "theme_color": "#9400D3",
+    "icons": [
+        {
+            "src": "/distractify-icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
